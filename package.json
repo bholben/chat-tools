@@ -1,0 +1,17 @@
+{
+  "name": "chat-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bob Holben",
+  "license": "ISC",
+  "devDependencies": {
+    "api": "https://github.com/bholben/api",
+    "firebase": "^4.0.0",
+    "lodash": "^4.17.4"
+  }
+}
